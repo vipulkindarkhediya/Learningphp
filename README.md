@@ -1,6 +1,8 @@
 # Learningphp
 
-This repository learn php
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/></code>
+
+This repository learn php basic to advance
 
 ==> Day-1-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php">echo & print </a><br>
 ==> Day-2-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-2-Learning/index.php">variable declaration </a><br>
@@ -13,5 +15,3 @@ This repository learn php
 ==> Day-9-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-9-Learning/index.php">if else statement</a><br>
 ==> Day-10-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-10-Learning/index.php">logical operator</a><br>
 ==> Day-11-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-11-Learning/index.php">conditional ternary operator</a><br>
-
-
