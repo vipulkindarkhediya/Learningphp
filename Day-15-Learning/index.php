@@ -2,12 +2,16 @@
 
 echo "<h1>while loop </h1>";
 
-$output = "";
 
-$a = "2";
+$array = ["vipul", "kamles", "ssd", "ssd", "ssd", "ssd", "ssd", "ssd", "ssd", "ssd", "ssd"];
 
-while ($a <= 3) {
-     echo "Jai hindi <br>";
+$arrayLength = count($array);
 
-     $a = $a + 1;
+$index = 0;
+
+
+while ($index < $arrayLength) {
+     echo $index . ") " . $array[$index] . "<br>";
+
+     $index++;
 }
