@@ -1,6 +1,6 @@
 # Learningphp
 
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="100" height="100"/></code>
 
 This repository learn php basic to advance
 
