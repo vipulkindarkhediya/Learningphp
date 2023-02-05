@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Comparison / Array Operator</h1>";
+echo "<h1>Comparison  Operator</h1>";
 
 $a = "10";
 $b = 10;
