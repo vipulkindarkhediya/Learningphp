@@ -28,7 +28,7 @@ echo "<h3>Before array_unshift() </h3><pre>";
 print_r($push_aa);
 echo "</pre>";
 
-echo "<h3>After push </h3><pre>";
+echo "<h3>After array_unshift() </h3><pre>";
 
 array_unshift($push_aa, "kamlesh", "sadad");
 
