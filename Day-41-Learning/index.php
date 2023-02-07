@@ -33,8 +33,8 @@ $em1 = [
 $em = [
      "sd",
      "as",
-     
-     
+
+
 ];
 
 function myfunction($em1, $em)
@@ -46,7 +46,7 @@ function myfunction($em1, $em)
      }
 }
 
-echo "<h3>array_duiff()</h3>";
+echo "<h3>array_udiff()</h3>";
 
 $das = array_udiff($em1, $em, "myfunction");
 
