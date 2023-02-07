@@ -21,7 +21,7 @@ print_r($merge);
 echo "</pre>";
 
 
-echo "<h2>array_combine()</h2>";
+echo "<h2>array_combine() </h2>";
 
 $student_merge_1 = ["name", "age"];
 $student_merge_2 = ["dsdsfsdf",    43344];
