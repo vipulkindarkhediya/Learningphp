@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Break & contrinue statement</h1>";
+echo "<h1>Break & continue statement</h1>";
 
 
 for ($i = 0; $i <= 20; $i++) {
