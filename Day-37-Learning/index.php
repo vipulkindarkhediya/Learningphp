@@ -1,7 +1,6 @@
 <?php
 
-echo "<h1>
- </h1>";
+echo "<h1> php array_merge()  & array_combine() </h1>";
 
 echo "<h2>array_merge()</h2>";
 
