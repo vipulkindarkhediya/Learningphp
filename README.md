@@ -26,3 +26,19 @@ This repository learn php basic to advance
 ==> Day-20-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-20-Learning/index.php">goto statement</a><br>
 ==> Day-21-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-21-Learning/index.php">php function</a><br>
 ==> Day-22-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-22-Learning/index.php">php function paramaters</a><br>
+==> Day-23-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-23-Learning/index.php">php function with return values</a><br>
+==> Day-24-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-24-Learning/index.php">php functions arguments by reference</a><br>
+==> Day-25-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-25-Learning/index.php">php variable function </a><br>
+==> Day-26-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-26-Learning/index.php">php recursive function </a><br>
+==> Day-27-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-27-Learning/index.php">php global & local variables</a><br>
+==> Day-28-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-28-Learning/index.php">php array</a><br>
+==> Day-29-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-29-Learning/index.php">php associative array</a><br>
+==> Day-30-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-30-Learning/index.php">php multidimensional array</a><br>
+==> Day-31-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-31-Learning/index.php">php multidimensional associative array</a><br>
+==> Day-32-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-32-Learning/index.php">php count() & Sizeof() </a><br>
+==> Day-33-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-33-Learning/index.php">php in_array() & array_search()</a><br>
+==> Day-34-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-34-Learning/index.php">php array_replace() & array_replace_recurvise</a><br>
+==> Day-35-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-35-Learning/index.php">php array_pop() & array_push</a><br>
+==> Day-36-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-36-Learning/index.php">php array_shift() & array_unshift()</a><br>
+==> Day-37-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-37-Learning/index.php">php array_merge() & array_combine()</a><br>
+==> Day-38-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-38-Learning/index.php">php function paramaters</a><br>
