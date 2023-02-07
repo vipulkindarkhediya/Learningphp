@@ -9,3 +9,4 @@ function student($name, $age, $contact)
 
 echo student("vipul", 23, 9879663850);
 echo student("Sagar",12,3456789012);
+echo student("Vipul",20,3456789012);
