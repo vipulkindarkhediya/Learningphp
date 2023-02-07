@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>php array_shift()  & array_unshift() </h1>";
+echo "<h1> php array_shift()  & array_unshift() </h1>";
 
 echo "<h2>array_shift()</h2>";
 
