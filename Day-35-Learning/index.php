@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>php array_pop()  & array_push() </h1>";
+echo "<h1> php array_pop()  & array_push() </h1>";
 
 echo "<h2>array_pop()</h2>";
 
