@@ -45,4 +45,5 @@ This repository learn php basic to advance
 ==> Day-39-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-39-Learning/index.php">php array_splice()</a><br>
 ==> Day-40-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-40-Learning/index.php">php array_key() & array_intersect()</a><br>
 ==> Day-41-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-41-Learning/index.php">php array_diff() & array_udiff()</a><br>
-==> Day-42-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-42-Learning/index.php">php date()</a><img src="php_date.png"/><br>
+==> Day-42-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-42-Learning/index.php">php date()</a><img src="php_date_formate.png"/><br>
+==> Day-43-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-43-Learning/index.php">php time()</a><img src="php_time_formate.png"/><br>
