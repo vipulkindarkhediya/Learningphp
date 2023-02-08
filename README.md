@@ -51,3 +51,5 @@ This repository learn php basic to advance
 ==> Day-45-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-45-Learning/index.php">php date_create() & date_formate() </a><br>
 ==> Day-46-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-46-Learning/index.php">php date_checkdate() & date_diff() </a><br>
 ==> Day-47-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-47-Learning/index.php">php date_add(), date_sub() & add_modify() </a><br>
+==> Day-48-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-48-Learning/index.php">php getdata(), localtime() & gettimeofday() </a><br>
+==> Day-49-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-48-Learning/index.php">php date_parse() & date_parse_from_formate()</a><br>
