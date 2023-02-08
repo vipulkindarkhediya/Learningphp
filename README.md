@@ -47,3 +47,4 @@ This repository learn php basic to advance
 ==> Day-41-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-41-Learning/index.php">php array_diff() & array_udiff()</a><br>
 ==> Day-42-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-42-Learning/index.php">php date()</a><img src="php_date_formate.png"/><br>
 ==> Day-43-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-43-Learning/index.php">php time()</a><img src="php_time_formate.png"/><br>
+==> Day-44-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-44-Learning/index.php">php mktime() & gmmktime()</a><br>
