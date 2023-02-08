@@ -9,3 +9,5 @@ echo "<strong>Month's formates is :</strong> <br>First : " . date("F")   . "<br>
 echo "<strong>Year's formates is :</strong> <br>First : " . date("Y") . "<br>Second : " . date("y") . "<br><br>";
 
 echo "<strong>Week's formates is :</strong> <br>First : " . date("D") . "<br>Second : " . date("l") . "<br>Thard : " . date("N") .  "<br>four : " . date("n") . "<br><br>";
+
+echo "<strong>Full formate is :</strong> <br>" . date("M/d/Y");
