@@ -2,8 +2,8 @@
 
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="200" height="100"/></code>
 
-This repository learn php basic to advance
-
+* This repository git clone 
+### `https://github.com/vckindarkhediya/Learningphp.git`
 * Day-1-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php">echo & print </a><br>
 * Day-2-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-2-Learning/index.php">variable declaration </a><br>
 * Day-3-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-3-Learning/index.php">data types</a><br>
