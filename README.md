@@ -5,7 +5,7 @@
 * This repository git clone 
 ### `https://github.com/vckindarkhediya/Learningphp.git`
 
- [Create React App](https://github.com/facebook/create-react-app).
+ [echo & print](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php).
 
 
 
