@@ -31,12 +31,35 @@
 * [php function paramaters](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-22-Learning/index.php)
 * [php function with return values](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-23-Learning/index.php)
 * [php functions arguments by reference](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-24-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-25-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-26-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-27-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-28-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-29-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-30-Learning/index.php)
+* [php variable function](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-25-Learning/index.php)
+* [php recursive function](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-26-Learning/index.php)
+* [php global & local variables](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-27-Learning/index.php)
+* [php array](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-28-Learning/index.php)
+* [php associative array](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-29-Learning/index.php)
+* [php multidimensional array](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-30-Learning/index.php)
+* [php multidimensional associative array](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-31-Learning/index.php)
+* [php count() & Sizeof()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-32-Learning/index.php)
+* [php in_array() & array_search()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-33-Learning/index.php)
+* [php array_replace() & array_replace_recurvise](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-34-Learning/index.php)
+* [php array_pop() & array_push](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-35-Learning/index.php)
+* [php array_shift() & array_unshift()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-36-Learning/index.php)
+* [php array_merge() & array_combine()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-37-Learning/index.php)
+* [php array_slice()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-38-Learning/index.php)
+* [php array_splice()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-39-Learning/index.php)
+* [php array_key() & array_intersect()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-40-Learning/index.php)
+* [php array_diff() & array_udiff()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-41-Learning/index.php)
+* [php date()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-42-Learning/index.php)
+* [php time()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-43-Learning/index.php)
+* [php mktime() & gmmktime()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-44-Learning/index.php)
+* [php date_create() & date_formate()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-45-Learning/index.php)
+* [php date_checkdate() & date_diff()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-46-Learning/index.php)
+* [php date_add(), date_sub() & add_modify()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-47-Learning/index.php)
+* [php getdata(), localtime() & gettimeofday()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-48-Learning/index.php)
+* [php date_parse() & date_parse_from_formate()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-49-Learning/index.php)
+* [php strtotime() & strftime()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-50-Learning/index.php)
+* [php date_time_set()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-51-Learning/index.php)
+* [php timezone()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-52-Learning/index.php)
+* [php include & require statement](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-53-Learning/index.php)
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
@@ -91,57 +114,3 @@
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 * [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-* [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
-
-
-* Day-25-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-25-Learning/index.php">php variable function </a><br>
-* Day-26-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-26-Learning/index.php">php recursive function </a><br>
-* Day-27-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-27-Learning/index.php">php global & local variables</a><br>
-* Day-28-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-28-Learning/index.php">php array</a><br>
-* Day-29-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-29-Learning/index.php">php associative array</a><br>
-* Day-30-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-30-Learning/index.php">php multidimensional array</a><br>
-* Day-31-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-31-Learning/index.php">php multidimensional associative array</a><br>
-* Day-32-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-32-Learning/index.php">php count() & Sizeof() </a><br>
-* Day-33-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-33-Learning/index.php">php in_array() & array_search()</a><br>
-* Day-34-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-34-Learning/index.php">php array_replace() & array_replace_recurvise</a><br>
-* Day-35-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-35-Learning/index.php">php array_pop() & array_push</a><br>
-* Day-36-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-36-Learning/index.php">php array_shift() & array_unshift()</a><br>
-* Day-37-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-37-Learning/index.php">php array_merge() & array_combine()</a><br>
-* Day-38-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-38-Learning/index.php">php array_slice()</a><br>
-* Day-39-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-39-Learning/index.php">php array_splice()</a><br>
-* Day-40-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-40-Learning/index.php">php array_key() & array_intersect()</a><br>
-* Day-41-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-41-Learning/index.php">php array_diff() & array_udiff()</a><br>
-* Day-42-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-42-Learning/index.php">php date()</a><img src="php_date_formate.png"/><br>
-* Day-43-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-43-Learning/index.php">php time()</a><img src="php_time_formate.png"/><br>
-* Day-44-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-44-Learning/index.php">php mktime() & gmmktime()</a><br>
-* Day-45-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-45-Learning/index.php">php date_create() & date_formate() </a><br>
-* Day-46-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-46-Learning/index.php">php date_checkdate() & date_diff() </a><br>
-* Day-47-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-47-Learning/index.php">php date_add(), date_sub() & add_modify() </a><br>
-* Day-48-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-48-Learning/index.php">php getdata(), localtime() & gettimeofday() </a><br>
-* Day-49-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-49-Learning/index.php">php date_parse() & date_parse_from_formate()</a><br>
-* Day-50-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-50-Learning/index.php">php strtotime() & strftime()</a><br>
-* Day-51-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-51-Learning/index.php">php date_time_set()</a><br>
-* Day-52-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-52-Learning/index.php">php timezone()</a><br>
-* Day-53-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-53-Learning/index.php">php include & require statement</a><br>
