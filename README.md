@@ -5,12 +5,13 @@
 * This repository git clone 
 ### `https://github.com/vckindarkhediya/Learningphp.git`
 
- [echo & print](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php).
+* [echo & print](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php)
+ 
+* [variable declaration ](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-2-Learning/index.php)
 
 
 
-* Day-1-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php">echo & print </a><br>
-* Day-2-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-2-Learning/index.php">variable declaration </a><br>
+* Day-2-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-2-Learning/index.php"></a><br>
 * Day-3-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-3-Learning/index.php">data types</a><br>
 * Day-4-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php">comments</a><br>
 * Day-5-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-5-Learning/index.php">define global variable</a><br>
