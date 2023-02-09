@@ -5,7 +5,7 @@
 * This repository git clone 
 ### `https://github.com/vckindarkhediya/Learningphp.git`
 
-[ Day-1-Learn]("https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php" "echo & print")
+[echo & print]("https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php" "Learning Php")
 
 
 * Day-1-Learn <a href ="https://github.com/vckindarkhediya/Learningphp/blob/php/Day-1-Learning/index.php">echo & print </a><br>
