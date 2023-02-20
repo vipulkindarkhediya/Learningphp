@@ -67,7 +67,7 @@
 - [php $_post variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-56-Learning/index.php)
 - [php $_request variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-57-Learning/index.php)
 - [php $_server variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-58-Learning/index.php)
-- [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
+- [php $_cookie variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-59-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
