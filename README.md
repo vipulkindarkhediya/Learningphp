@@ -62,6 +62,7 @@
 - [php timezone()](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-52-Learning/index.php)
 - [php include & require statement](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-53-Learning/index.php)
 - [php include_once & require_once](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-54-Learning/index.php)
+- [php superglobal variable]()
 - [php $_get variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-55-Learning/index.php)
 - [php $_post variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-56-Learning/index.php)
 - [php $_request variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-57-Learning/index.php)
