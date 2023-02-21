@@ -14,7 +14,7 @@
      $user_name = "user";
      $user_value = "vipul Kindarkhediya";
 
-     setcookie($user_name, $user_value, time() + (10 * 2), "/");
+     setcookie($user_name, $user_value, time() + (100 * 2), "/");
 
 
      if (!isset($_COOKIE[$user_name])) {
