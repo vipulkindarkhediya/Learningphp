@@ -70,7 +70,7 @@
 - [php $_cookie variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-59-Learning/index.php)
 - [php $_session variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-60-Learning/index.php)
 - [php $_files variable](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-61-Learning/index.php)
-- [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-62-Learning/index.php)
+- [php die() & exit() ](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-62-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
 - [](https://github.com/vckindarkhediya/Learningphp/blob/php/Day-4-Learning/index.php)
