@@ -15,6 +15,7 @@
 
 <body>
      <h1>php files variable</h1>
+     
      <form action="file.php" method="post" enctype="multipart/form-data">
           <input type="text" name="name" placeholder="Enter name"><br><br>
           <input type="number" name="age" placeholder="Enter age"><br><br>
